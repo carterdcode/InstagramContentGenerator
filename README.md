@@ -8,7 +8,6 @@ Generate text based instagram posts, with the option to open instagram website a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
