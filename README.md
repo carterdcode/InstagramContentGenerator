@@ -1,6 +1,6 @@
 # InstagramContentGenerator
 
-Generate text based instagram posts, with the option to open instagram website and post them. 
+Generate instagram posts, with the option to open instagram website and post them. 
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ Generate text based instagram posts, with the option to open instagram website a
 
 ## About
 
-I originally made this to see how easy it would be to setup fully automatic content creation via crappy text posts. Turns out it is extremely easy, but I didn't want to go bankrupt on API tokens. Code may or may not be functional, it has been quite a while since I used it.
+I originally made this to see how easy it would be to setup fully automatic content creation via text posts. Turns out it is extremely easy, but I didn't want to go bankrupt on API tokens. Code may or may not be functional, it has been quite a while since I used it.
 ## Installation
 
 Install tkinter, pillow, openAI. 
